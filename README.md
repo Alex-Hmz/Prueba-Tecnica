@@ -5,7 +5,7 @@ Prueba: **DESARROLLADOR JR**
 
 Deadline: **1 día**
 
-Nombre: 
+Nombre: Arturo Alexander Humanez Díaz
 
 ------
 ## Clona y crea tu repositorio para la evaluación ##
